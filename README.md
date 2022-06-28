@@ -29,7 +29,7 @@ Display all the Transformed images and end the program.
 ## Program:
 ```python
 Developed By:M.Vivekananda Reddy
-Register Number:212221240024
+Register Number:212221240030
 i)Image Translation
 import numpy as np
 import cv2
@@ -155,7 +155,7 @@ plt.show()
 
 ### iv)Image Reflection
 ![](out.png)
-![](reflected.png)
+![reflected](https://user-images.githubusercontent.com/94525701/176140081-0d206cc1-b9c8-4969-a6b2-deb9db31ca08.png)
 
 
 
