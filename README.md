@@ -155,6 +155,10 @@ plt.show()
 
 ### iv)Image Reflection
 ![](out.png)
+
+
+
+
 ![reflected](https://user-images.githubusercontent.com/94525701/176140081-0d206cc1-b9c8-4969-a6b2-deb9db31ca08.png)
 
 
